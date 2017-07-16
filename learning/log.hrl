@@ -1,0 +1,1 @@
+-define(LOG(Msg,Arg), io:format(Msg ++ "~n",Arg)).
